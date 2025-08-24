@@ -1,5 +1,5 @@
 # LFGP
-12.	Ziyu LIU, Yongxiang LI*, Xiaowei YUE, Ershun PAN. (2025). Latent Functional Gaussian Process Incorporating Output Spatial Correlations.  IISE Transactions. Online Published. https://doi.org/10.1080/24725854.2024.2435054
+Ziyu LIU, Yongxiang LI*, Xiaowei YUE, Ershun PAN. (2025). Latent Functional Gaussian Process Incorporating Output Spatial Correlations.  IISE Transactions. Online Published. https://doi.org/10.1080/24725854.2024.2435054
 ------------------------------------------------------------------
 
 Abstract: 
